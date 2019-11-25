@@ -8,16 +8,16 @@ module.exports = {
   siteLanguage: "en",
 
   /* author */
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "Michael Bonner",
+  authorTwitterAccount: "90steenculture",
 
   /* info */
   headerTitle: "90's Teen Culture",
   headerSubTitle: "A Time Machine Back To The Greatest Decade",
 
   /* manifest.json */
-  manifestName: "HeroBlog - a GatsbyJS starter",
-  manifestShortName: "HeroBlog", // max 12 characters
+  manifestName: "90's Teen Culture - a GatsbyJS blog",
+  manifestShortName: "90sTeen", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
@@ -32,8 +32,8 @@ module.exports = {
 
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "instagram", url: "https://instagram.com/90steenculture" },
+    { name: "twitter", url: "https://twitter.com/90steenculture" },
+    { name: "facebook", url: "http://facebook.com/90steenculture" }
   ]
 };
