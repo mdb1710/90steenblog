@@ -1,11 +1,11 @@
 ---
-title: Two things are infinite the universe and human stupidity
+title: The Best 90's Thanksgiving Episodes
 category: "sayings"
 cover: photo-1490474418585-ba9bad8fd0ea.jpg
-author: greg lobinski
+author: Michael Bonner
 ---
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [adipiscing](http://google.com) eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:
+This is a test paragraph to show people if this blog works.  We will be showcasing the best thanksgiving episodes of the 90s.  You will find the full list here.
 
 Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
 
