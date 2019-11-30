@@ -1,5 +1,5 @@
 ---
-title: I may not have gone where I intended to go
+title: The New 90's Teen Culture is here
 category: "testimonies"
 cover: photo-1507915600431-5292809c5ab7.jpg
 author: greg lobinski
