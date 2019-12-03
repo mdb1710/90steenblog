@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Michael Bonner** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus.
+**Michael Bonner** I'm a Certified 90s Superfan (C9S) and love to talk about everything that existed from 1990 to 1999.
