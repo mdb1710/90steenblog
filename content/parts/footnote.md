@@ -2,9 +2,8 @@
 title: footnote
 ---
 
-- Check us out on [Facebook](https://facebook.com/90steenculture)
-- built by [gatsby](https://www.gatsbyjs.com)
-- Check [Front-end web development with Greg](https://dev.greglobinski.com)
+- 90's Teen Culture on [Facebook](https://facebook.com/90steenculture)
+- 90's Teen Culture on [Instagram](https://instagram.com/90steenculture)
+- 90's Teen Culture on [Twitter](https://twitter.com/90steenculture)
+- built with [gatsby](https://www.gatsbyjs.com)
 - delivered by [Netlify](https://www.netlify.com/)
-- photos by [unsplash.com](https://unsplash.com)
-- graphic by [pixabay.com](https://pixabay.com)

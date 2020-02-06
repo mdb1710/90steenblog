@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "90s Teen Culture - A Time Machine Back To The Greatest Decade", // <title>
   shortSiteTitle: "90s Teen Culture", // <title> ending for posts and pages
   siteDescription: "A blog about being a teen in the 90s",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteUrl: "https://90steenculture.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",

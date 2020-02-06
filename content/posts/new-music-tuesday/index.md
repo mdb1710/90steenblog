@@ -1,11 +1,11 @@
 ---
-title: Black Friday Deals - 90's Style
+title: The 10 Best 90's Teen Valentine Day Episodes - Sitcoms
 category: "television"
 cover: photo-1490474418585-ba9bad8fd0ea.jpg
 author: michael bonner
 ---
 
-This post will be talking about the best 90's comedy episodes where the main plot involved shopping or a big sale. Amazon Prime may be the go-to option for shoppers today but malls and mega-stores were on every teen's mind in the 90s - and even provided part-time jobs. Here is our list.
+Valentine's Day 2020 is just around the corner and we all know there is nothing like true love in high school.  This was especially true in the 90s when you could get lost in the love life of your favorite characters.
 
 Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
 
